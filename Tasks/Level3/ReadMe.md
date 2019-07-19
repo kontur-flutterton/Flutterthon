@@ -1,7 +1,7 @@
 #### Выбери любой из представленных интерфейсов и сделай его на Flutter
 
 ### Flower
-<img src="https://github.com/kontur-flutterton/Flutterton/blob/master/Tasks/Level3/src/flowers.gif" width="800" height="600">
+<img src="https://github.com/kontur-flutterton/Flutterton/blob/master/Tasks/Level3/src/flower.gif" width="800" height="600">
 
 ***
 ### Cart
